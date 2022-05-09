@@ -1,0 +1,7 @@
+{
+  "name": "sanstage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
